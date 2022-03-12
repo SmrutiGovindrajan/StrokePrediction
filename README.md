@@ -1,6 +1,5 @@
 ### Name : Stroke Prediction Dataset
 ### Link : https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
-### Original Dataset : https://github.com/stedy/Machine-Learning-with-R-datasets
 
 ### Context
 
