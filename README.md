@@ -4,7 +4,9 @@
 ### Context
 
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
-This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
+This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. 
 
 ### Project Description
-This project uses decision trees to determine whether a patient will have stroke or not! It also uses Stratified K-fold for Cross Validation and random downsampling to equalize the severely unbalanced dataset which had 95:5 target column distribution.
+This project aims to predict the occurrence of stroke (which, according to WHO, is the 2nd leading cause of death globally and contributing to approximately 11% of total deaths) in a person depending on the patient's pre-medical conditions such as hypertension, heart disease and smoking habits using Decision Trees. 
+Performed Exploratory Data Analysis and Stratified K-fold cross-validation.
+Used sampling techniques to equalize a severely unbalanced dataset and increased the accuracy of the model by more than 300%
